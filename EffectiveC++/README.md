@@ -19,3 +19,5 @@
 [7. 模板与泛型编程](./notes/07.md)
 
 [8. 定制new和delete](notes/08.md)
+
+[9. 杂项讨论](notes/09.md)
